@@ -1,6 +1,6 @@
 {
   "name": "jekrb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Personal npm card for Jake Burden (@jekrb)",
   "main": "index.html",
   "repository": {
